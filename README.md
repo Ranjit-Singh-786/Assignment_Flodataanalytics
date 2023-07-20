@@ -9,6 +9,6 @@ there two field  first one representing ACTUAL data point and second one represe
 ## forecating visualaization result for JUN month with actual datapoint
 
 
-<img src="filter_data/chart.png>
+<img src="filter_data/chart.png">
 
 <p><b>THANK YOU 😊<b></p>
